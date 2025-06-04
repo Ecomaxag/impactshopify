@@ -107,7 +107,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
+            "title": "Nous contacter",
             "content": "<p><strong>Service client</strong>: contact@mylivya.com</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
@@ -126,7 +126,7 @@
         ".footer__copyright p {color: white !important;}",
         ".footer__block--text p,.footer__block--text strong,.footer__block--text b,.footer__block--text span {color: #cbd5e1 !important;}",
         ".footer__block--text:last-child p.bold {color: white !important;}",
-        ".footer .text-with-icons__text {color: #FFFFFF !important;}"
+        ".footer .text-with-icons__text {color: #ffffff !important;}"
       ],
       "settings": {
         "show_social_media": true,
