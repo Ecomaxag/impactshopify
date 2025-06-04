@@ -446,7 +446,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<ul><li><strong>Soulagement rapide des douleurs</strong> : Agissent efficacement sur les douleurs plantaires, articulaires et lombaires dès les premiers jours.</li><li><strong>Technologie magnétique intégrée</strong> : Stimule les points de pression pour améliorer la circulation sanguine et réduire l'inflammation.</li><li><strong>Adaptables à toutes les tailles</strong> : Les semelles sont découpables pour s’ajuster parfaitement à vos pieds (tailles S/M/L).</li><li><strong>Utilisation quotidienne facile</strong> : Glissez-les simplement dans vos baskets, chaussures ou pantoufles.</li><li><strong>Confort ergonomique</strong> : Leur design épouse parfaitement la forme du pied pour un soutien optimal à chaque pas.</li><li><strong>Sans médicament ni effets secondaires</strong> : Solution 100 % naturelle, non invasive et testée cliniquement.</li><li><strong>Économique et durable</strong> : Réutilisables et lavables, elles vous évitent des traitements coûteux.</li><li><strong>Garantie de satisfaction</strong> : Si vous n'êtes pas satisfait, une garantie de remboursement est offerte.</li></ul>",
+            "content": "<ul><li><strong>Restaure et protège le bois</strong> : Ravive instantanément la couleur naturelle du bois et masque les rayures superficielles.</li><li><strong>100 % naturel et non toxique</strong> : Formulé uniquement à base de cire d’abeille pure, sans silicone, sans OGM, sans paraffine.</li><li><strong>Sans odeur artificielle</strong> : Ne contient aucun parfum chimique, convient parfaitement à un usage en intérieur.</li><li><strong>Respectueux de l’environnement</strong> : Biodégradable et sans impact sur la nature, idéal pour les foyers éco-responsables.</li><li><strong>Utilisation universelle</strong> : Convient au bois brut, vernis, huilé ou peint (tables, armoires, parquets, cadres, etc.).</li><li><strong>Application facile</strong> : Pas besoin de poncer ou vernir — il suffit d’appliquer, essuyer, admirer.</li><li><strong>Fini non gras</strong> : Ne laisse pas de résidus collants ou huileux après usage.</li><li><strong>Économique et durable</strong> : Une petite quantité suffit pour traiter de grandes surfaces.</li></ul>",
             "page": ""
           }
         },
@@ -454,7 +454,7 @@
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez le <strong>Livya®</strong> sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre semelle Livya® vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
+            "content": "<p>Essayez le <strong>Cire & Sèvre®</strong> sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre semelle Livya® vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
             "page": ""
           }
         },
@@ -500,36 +500,57 @@
         "item_jCFdCM": {
           "type": "item",
           "settings": {
-            "title": "Qu’est-ce que les semelles Livya® ?",
-            "content": "<p>ReliveX™ sont des semelles magnétiques conçues pour stimuler les points de pression sous vos pieds, afin de soulager naturellement les douleurs articulaires, musculaires et lombaires.</p>"
+            "title": "Qu’est-ce que Cire & Sève® ?",
+            "content": "<p>C’est une cire d’abeille 100 % naturelle conçue pour nourrir, protéger et raviver vos meubles en bois. Elle restaure leur éclat sans produits chimiques.</p>"
           }
         },
         "item_KWgBqe": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionnent-elles ?",
-            "content": "<p>Elles utilisent la magnétothérapie : les aimants intégrés agissent sur la circulation sanguine et les nerfs plantaires, réduisant l’inflammation et la sensation de douleur.</p>"
+            "title": "Comment l’utiliser ?",
+            "content": "<p>Appliquez une petite quantité de cire sur la surface à traiter à l’aide d’un chiffon ou d’une éponge. Laissez pénétrer quelques instants, puis essuyez avec un chiffon propre.</p>"
           }
         },
         "item_pWkyeC": {
           "type": "item",
           "settings": {
-            "title": "Est-ce indolore ?",
-            "content": "<p>Oui, complètement. Elles s’utilisent comme des semelles classiques, sans aucune gêne. Vous ressentez uniquement un effet de confort progressif.</p>"
+            "title": "Sur quelles surfaces peut-on l’appliquer ?",
+            "content": "<p>Elle est idéale pour les meubles en bois naturel, vernis, huilé, mais aussi pour les parquets, cadres, escaliers ou même objets décoratifs.</p>"
           }
         },
         "item_A8Qn9Q": {
           "type": "item",
           "settings": {
-            "title": "Sont-elles adaptées à tous les types de pieds ?",
-            "content": "<p>Oui ! Les semelles Livya® sont ajustables : vous pouvez les découper facilement selon votre pointure (S, M, L).</p>"
+            "title": "Est-ce qu’il faut poncer le meuble avant ?",
+            "content": "<p>Non, aucun ponçage n’est nécessaire. La cire agit directement sur la surface du bois, même terne ou rayée.</p>"
           }
         },
         "item_xQnrjK": {
           "type": "item",
           "settings": {
-            "title": "Où puis-je les utiliser ?",
-            "content": "<p>Dans toutes vos chaussures : baskets, chaussures de ville, pantoufles… Elles sont discrètes, souples et efficaces partout.</p>"
+            "title": "La cire laisse-t-elle un fini gras ou collant ?",
+            "content": "<p>Pas du tout. Sa formule pénètre le bois en profondeur et laisse un fini doux, sec et brillant.</p>"
+          }
+        },
+        "item_GPAmfr": {
+          "type": "item",
+          "settings": {
+            "title": "Cire & Sève® contient-elle des produits chimiques ?",
+            "content": "<p>Non. Elle est sans silicone, sans OGM, sans paraffine, non toxique et respectueuse de l’environnement.</p>"
+          }
+        },
+        "item_QWFwNn": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps durent les effets ?",
+            "content": "<p>Un seul traitement peut protéger et embellir le bois pendant plusieurs semaines. Une utilisation régulière permet de prolonger l’effet.</p>"
+          }
+        },
+        "item_PpDYpw": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux l’utiliser sur du bois coloré ou vernis ?",
+            "content": "<p>Oui, elle convient à toutes les finitions. Testez d’abord sur une petite zone si le meuble est ancien ou très fragile.</p>"
           }
         },
         "item_pCfKtx": {
@@ -560,6 +581,9 @@
         "item_pWkyeC",
         "item_A8Qn9Q",
         "item_xQnrjK",
+        "item_GPAmfr",
+        "item_QWFwNn",
+        "item_PpDYpw",
         "item_pCfKtx",
         "item_hHVmtb",
         "item_U8pJir"
