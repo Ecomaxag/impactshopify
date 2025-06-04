@@ -9,36 +9,620 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_pVPTb4": {
+    "image_with_text_overlay_TqFYB7": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_rVn6Nb": {
+        "heading_dc4GRk": {
           "type": "heading",
           "settings": {
-            "text": "Pour un vol zen et sans tracas",
-            "heading_tag": "h1"
+            "text": "Réduisez visiblement poches et cernes en  10 minutes",
+            "heading_tag": "h2"
+          }
+        },
+        "button_W98YCU": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Illuminez votre regard",
+            "url": "#acheter",
+            "background": "#ff5c5c",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_rVn6Nb"
+        "heading_dc4GRk",
+        "button_W98YCU"
       ],
-      "name": "Image with text overlay",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/7df54379-73cb-42fa-b7f8-c895d66f0c90.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "rich_text_VGxAmJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HVFDxQ": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Pourquoi choisir Dermalyse",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HVFDxQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_QfzrA7": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_LzBaBP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YqqFnB": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "liquid_X9dRCE": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<section id=\"acheter\"></section>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YqqFnB",
+        "liquid_X9dRCE"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_QE3WFb": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_ADBDeP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Étoiles et avis -->\n<div style=\"display: flex; align-items: center; gap: 6px; margin-bottom: 6px;\">\n  <div style=\"color: #00b14f; font-size: 16px; display: flex;\">\n    ★★★★★\n  </div>\n  <div style=\"font-size: 14px; color: #000000;\">\n    4.8 (589 avis)\n  </div>\n</div>\n\n<section id=\"produit\"></section>"
+          }
+        },
+        "title_CMi6QX": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_XgekHM": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_P3VKnQ": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_4CCcFJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #ffeaea; color: #b90000; display: inline-block; padding: 6px 12px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-bottom: 10px;\">\n  <span style=\"display: inline-block; width: 8px; height: 8px; background-color: red; border-radius: 50%; margin-right: 6px;\"></span>\nEn stock – profitez-en avant qu’il ne soit trop tard !</div>"
+          }
+        },
+        "rating_Rx3PGa": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_Ci4qqg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_97dXJN": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_WkR7hU": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "pickup_availability_JVaXnJ": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_ADBDeP",
+        "title_CMi6QX",
+        "badges_XgekHM",
+        "price_P3VKnQ",
+        "liquid_4CCcFJ",
+        "rating_Rx3PGa",
+        "separator_Ci4qqg",
+        "buy_buttons_97dXJN",
+        "image_WkR7hU",
+        "pickup_availability_JVaXnJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "cire-seve®-redonnez-vie-a-vos-meubles-en-bois-sans-les-renover",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "logo_list_qB4fMH": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_7rNKWd": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9KgQjh": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_pQGbhY": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9qVati": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_7rNKWd",
+        "logo_9KgQjh",
+        "logo_pQGbhY",
+        "logo_9qVati"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "custom_liquid_y6YjUY": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display: flex; flex-wrap: wrap; align-items: center; gap: 24px;\">\n\n  <!-- Colonne texte à gauche -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;\">\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.6; color: #1a1a1a; max-width: 500px;\">\n\n      <p style=\"color: #DAA520; font-weight: bold; margin-bottom: 10px;\">\n        Redonnez vie à vos meubles en bois, sans les rénover !\n      </p>\n\n      <p><strong>Cire & Sève®</strong> est une cire d’abeille 100 % naturelle qui nourrit, répare et protège vos meubles en bois. En un simple geste, elle comble les rayures, ravive la teinte naturelle du bois et lui redonne son éclat d’origine.</p>\n      </br>\n      <p>Idéale pour les surfaces ternes, rayées ou anciennes, cette solution simple et rapide prolonge la durée de vie de vos meubles tout en leur offrant un aspect neuf.</p>\n      </br>\n      <p><strong>Aucune rénovation nécessaire — un chiffon, un peu de cire, et le tour est joué.</strong></p>\n\n      <!-- Étoiles jaunes -->\n      <div style=\"font-size: 20px; color: #FFA500; margin-top: 20px; text-align: center;\">\n        ★★★★★\n      </div>\n\n      <!-- BOUTON CTA -->\n      <div style=\"margin-top: 24px; text-align: center;\">\n        <a href=\"#produit\" style=\"\n          background-color: #DAA520;\n          color: #fff;\n          padding: 12px 22px;\n          text-decoration: none;\n          border-radius: 999px;\n          font-weight: bold;\n          transition: background-color 0.3s ease;\n          display: inline-block;\n        \"\n        onmouseover=\"this.style.backgroundColor='#8C6A1D'\"\n        onmouseout=\"this.style.backgroundColor='#FF5C5C'\">\n          Découvrir la cire naturelle Cire & Sève®\n        </a>\n      </div>\n\n      <!-- Texte en dessous du bouton -->\n      <p style=\"font-size: 13px; color: #666; text-align: center; margin-top: 10px;\">\n        *Formule naturelle testée et approuvée pour tous types de bois.\n      </p>\n\n    </div>\n  </div>\n\n  <!-- Colonne image à droite -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0910/2639/1426/files/rt_3.webp?v=1749064616\" alt=\"Cire & Sève pot de cire\" style=\"max-width: 100%; max-height: 480px; height: auto; border-radius: 8px;\">\n  </div>\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_zdMaER": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display: flex; flex-wrap: wrap; align-items: center; gap: 24px;\">\n\n  <!-- Colonne image à gauche -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0910/2639/1426/files/ezgif.com-webp-to-gif-converter_4.webp?v=1749064776\" alt=\"Cire & Sève – résultat bois\" style=\"max-width: 100%; max-height: 480px; height: auto; border-radius: 8px;\">\n  </div>\n\n  <!-- Colonne texte à droite -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;\">\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.6; color: #1a1a1a; max-width: 500px;\">\n\n      <p style=\"color: #DAA520; font-weight: bold; margin-bottom: 10px;\">\n        Redonnez une seconde vie à vos meubles en bois !\n      </p>\n\n      <p><strong>Cire & Sève®</strong> est une cire d’abeille 100 % naturelle qui nourrit, protège et ravive le bois instantanément. En un seul passage, elle comble les rayures, redonne de la brillance et fait disparaître l’aspect terne et usé.</p>\n      </br>\n      <p>Adaptée à tous les types de bois (tables, chaises, escaliers, buffets...), elle est idéale pour restaurer vos meubles sans travaux, sans ponçage ni produits chimiques.</p>\n      </br>\n      <p><strong>Un résultat visible en quelques secondes. Facile à appliquer, durable et sans odeur.</strong></p>\n\n      <!-- Étoiles -->\n      <div style=\"font-size: 20px; color: #FFA500; margin-top: 12px; text-align: center;\">\n        ★★★★★\n      </div>\n\n      <!-- BOUTON CTA -->\n      <div style=\"margin-top: 24px; text-align: center;\">\n        <a href=\"#produit\" style=\"\n          background-color: #FF5C5C;\n          color: #fff;\n          padding: 12px 22px;\n          text-decoration: none;\n          border-radius: 999px;\n          font-weight: bold;\n          transition: background-color 0.3s ease;\n          display: inline-block;\n        \"\n        onmouseover=\"this.style.backgroundColor='#8C6A1D'\"\n        onmouseout=\"this.style.backgroundColor='#FF5C5C'\">\n          Découvrir la cire naturelle Cire & Sève®\n        </a>\n      </div>\n\n      <!-- Note info -->\n      <p style=\"font-size: 13px; color: #666; text-align: center; margin-top: 10px;\">\n        *Formule testée, efficace sur tous types de bois.\n      </p>\n\n    </div>\n  </div>\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_kmzaxK": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display: flex; flex-wrap: wrap; align-items: center; gap: 24px;\">\n\n  <!-- Colonne texte à gauche -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;\">\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.6; color: #1a1a1a; max-width: 500px;\">\n\n      <p style=\"color: #D80000; font-weight: bold; margin-bottom: 10px;\">\n        Semelles magnétiques recommandées par les experts en santé articulaire\n      </p>\n\n      <p><strong>Livya® – Semelles magnétiques de thérapie naturelle sont une solution innovante, non invasive, cliniquement testée pour soulager les douleurs chroniques des pieds, genoux et lombaires en quelques jours seulement.</strong></p>\n      </br>\n      <p>Elles utilisent le pouvoir de la <strong>magnétothérapie</strong> combiné à un design ergonomique pour stimuler la circulation sanguine, réduire l’inflammation et rétablir votre confort de marche.</p>\n      </br>\n      <p>Oubliez les crèmes et médicaments — optez pour un <strong>soulagement durable et 100 % naturel avec Livya</strong> !</p>\n\n      <!-- Étoiles -->\n      <div style=\"font-size: 20px; color: #FFA500; margin-top: 20px; text-align: center;\">\n        ★★★★★\n      </div>\n\n      <!-- BOUTON CENTRÉ -->\n      <div style=\"margin-top: 24px; text-align: center;\">\n        <a href=\"#produit\" style=\"\n          background-color: #FF5C5C;\n          color: #fff;\n          padding: 10px 20px;\n          text-decoration: none;\n          border-radius: 999px;\n          font-weight: bold;\n          transition: background-color 0.3s ease;\n          display: inline-block;\n        \"\n        onmouseover=\"this.style.backgroundColor='#a60000'\"\n        onmouseout=\"this.style.backgroundColor='#D80000'\">\n          Obtenir le confort dès maintenant\n        </a>\n      </div>\n\n    </div>\n  </div>\n\n  <!-- Colonne GIF à droite -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; justify-content: center;\">\n    <img src=\"https://relivex.nl/cdn/shop/files/asdasd_1-ezgif.com-optimize.gif\" alt=\"Animation semelles Livya\" style=\"max-width: 100%; max-height: 500px; height: auto; border-radius: 8px;\">\n  </div>\n\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_C8Dpr3": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display: flex; flex-wrap: wrap; align-items: center; gap: 24px;\">\n\n  <!-- Colonne image redimensionnée -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0936/5772/7306/files/Untitled_design_13_cf00fc49-ad68-4bb3-be30-66a59332e109.gif?v=1749002680\" alt=\"HairOff Spray épilation\" style=\"max-width: 100%; max-height: 500px; height: auto; border-radius: 8px;\">\n  </div>\n\n  <!-- Colonne texte -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;\">\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.6; color: #1a1a1a; max-width: 500px;\">\n\n      <p style=\"color: #D80000; font-weight: bold; margin-bottom: 10px;\">\n        Dites adieu aux douleurs chroniques et inconforts au quotidien !\n      </p>\n\n      <p><strong>Découvrez le confort de marcher sans douleur grâce aux semelles magnétiques thérapeutiques Livya® — la solution naturelle pour le soulagement articulaire.</strong></p>\n</br>\n      <p>Soulagez vos pieds, genoux et dos grâce à une stimulation magnétique efficace, en toute simplicité.\n\nGlissez-les dans vos chaussures et ressentez un bien-être durable au fil des jours !</p>\n</br>\n\n      <!-- BOUTON CENTRÉ -->\n      <div style=\"margin-top: 24px; text-align: center;\">\n        <a href=\"#produit\" style=\"\n          background-color: #FF5C5C;\n          color: #fff;\n          padding: 10px 20px;\n          text-decoration: none;\n          border-radius: 999px;\n          font-weight: bold;\n          transition: background-color 0.3s ease;\n          display: inline-block;\n        \"\n        onmouseover=\"this.style.backgroundColor='#a60000'\"\n        onmouseout=\"this.style.backgroundColor='#D80000'\">\n          Oui, je veux soulager mes douleurs\n        </a>\n      </div>\n\n    </div>\n  </div>\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_AFjpJU": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display: flex; flex-wrap: wrap; align-items: center; gap: 24px;\">\n\n  <!-- Colonne texte à gauche -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; align-items: center; justify-content: center;\">\n    <div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.6; color: #1a1a1a; max-width: 500px;\">\n\n      <p style=\"color: #D80000; font-weight: bold; margin-bottom: 10px;\">\n        100 % naturel et soulage durablement les douleurs articulaires\n      </p>\n\n      <p><strong>Livya® – Semelles magnétiques</strong> utilisent une technologie magnétique avancée, conçue pour stimuler les zones réflexes et améliorer la circulation sanguine afin de réduire les douleurs aux pieds, genoux et lombaires.</p>\n      </br>\n      <p>Dès les premiers jours, vous ressentez une différence : moins de tension, plus de confort et un bien-être global retrouvé.</p>\n      </br>\n      <p>Non seulement elles soulagent instantanément, mais elles aident aussi à prévenir le retour des douleurs à long terme.</p>\n      </br>\n      <p><strong>Résultat : un confort retrouvé qui dure jusqu’à plusieurs semaines !</strong></p>\n\n      <!-- Étoiles jaunes -->\n      <div style=\"font-size: 20px; color: #FFA500; margin-top: 20px; text-align: center;\">\n        ★★★★★\n      </div>\n\n      <!-- BOUTON CENTRÉ -->\n      <div style=\"margin-top: 24px; text-align: center;\">\n        <a href=\"#produit\" style=\"\n          background-color: #FF5C5C;\n          color: #fff;\n          padding: 10px 20px;\n          text-decoration: none;\n          border-radius: 999px;\n          font-weight: bold;\n          transition: background-color 0.3s ease;\n          display: inline-block;\n        \"\n        onmouseover=\"this.style.backgroundColor='#a60000'\"\n        onmouseout=\"this.style.backgroundColor='#D80000'\">\n          Je veux mes semelles avant la rupture de stock\n        </a>\n      </div>\n\n      <!-- Texte en dessous du bouton -->\n      <p style=\"font-size: 13px; color: #666; text-align: center; margin-top: 10px;\">\n        *Tous nos produits ont été testés et validés par plus de 3687 médecins en Europe.\n      </p>\n\n    </div>\n  </div>\n\n  <!-- Colonne image à droite -->\n  <div style=\"flex: 1; min-width: 300px; display: flex; justify-content: center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0936/5772/7306/files/Votre_texte_de_paragraphe_1.png?v=1749023705\" alt=\"Livya Semelles magnétiques\" style=\"max-width: 100%; max-height: 500px; height: auto; border-radius: 8px;\">\n  </div>\n</div>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_G9pXKW": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  body, html {\n    margin: 0;\n    padding: 0;\n  }\n\n  .reviews-wrapper {\n    width: 100%;\n    background-color: #E6F7FB;\n  }\n\n  .reviews-section {\n    max-width: 100%;\n    padding: 20px 20px; /* Réduction du padding haut */\n    font-family: Arial, sans-serif;\n    text-align: center;\n  }\n\n  .reviews-section h2 {\n    font-size: 36px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .reviews-stars-title {\n    color: #FFA500;\n    font-size: 22px;\n    margin: 5px 0 15px;\n  }\n\n  .reviews-subtitle {\n    font-size: 18px;\n    color: #333;\n    margin-bottom: 40px;\n  }\n\n  .reviews-grid {\n    display: grid;\n    grid-template-columns: 1fr;\n    gap: 20px;\n    max-width: 1200px;\n    margin: 0 auto;\n  }\n\n  @media (min-width: 768px) {\n    .reviews-grid {\n      grid-template-columns: repeat(3, 1fr);\n    }\n  }\n\n  .review-card {\n    background: white;\n    border-radius: 20px;\n    padding: 20px;\n    box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n    display: flex;\n    flex-direction: column;\n    justify-content: space-between;\n    text-align: left;\n    height: 100%;\n    min-height: 540px;\n  }\n\n  .review-img {\n    width: 100%;\n    height: 240px;\n    object-fit: cover;\n    border-radius: 16px;\n    margin-bottom: 15px;\n  }\n\n  .review-img.bottom {\n    margin-top: auto;\n    margin-bottom: 0;\n  }\n\n  .review-stars {\n    background-color: #FFE5EF;\n    color: #FF4081;\n    display: inline-block;\n    padding: 5px 10px;\n    border-radius: 999px;\n    font-size: 16px;\n    margin-bottom: 10px;\n    font-weight: bold;\n  }\n\n  .review-text {\n    font-size: 15px;\n    color: #444;\n    margin-bottom: 15px;\n    flex-grow: 1;\n  }\n\n  .review-author {\n    font-weight: bold;\n    font-size: 15px;\n    color: #000;\n  }\n\n  .review-location {\n    font-size: 13px;\n    color: #888;\n  }\n</style>\n\n<div class=\"reviews-wrapper\">\n  <section class=\"reviews-section\">\n    <h2>Nos clientes en parlent le mieux</h2>\n    <div class=\"reviews-stars-title\">★★★★★</div>\n    <p class=\"reviews-subtitle\">Approuvé par plus de 2 000 clients</p>\n\n    <div class=\"reviews-grid\">\n      <!-- Review 1 -->\n      <div class=\"review-card\">\n        <img class=\"review-img\" src=\"https://cdn.shopify.com/s/files/1/0936/5772/7306/files/ZTgHujZ9J.jpg?v=1749004350\" alt=\"Review 1\">\n        <div style=\"display: flex; justify-content: center; margin-bottom: 10px;\">\n          <div style=\"background-color: #fde8f0; padding: 4px 12px; border-radius: 20px; font-size: 16px; color: #ff1a75;\">\n            ★★★★★\n          </div>\n        </div>\n        <p class=\"review-text\"> Je ne m’attendais pas à un tel résultat ! En à peine quelques jours, mes douleurs aux talons ont presque disparu. J’ai repris mes promenades sans avoir mal aux pieds. Une vraie libération !\"</p>\n        <div class=\"review-author\">Sylvie</div>\n        <div class=\"review-location\">Lyon, France</div>\n      </div>\n\n      <!-- Review 2 -->\n      <div class=\"review-card\">\n        <div>\n          <div style=\"display: flex; justify-content: center; margin-bottom: 10px;\">\n            <div style=\"background-color: #fde8f0; padding: 4px 12px; border-radius: 20px; font-size: 16px; color: #ff1a75;\">\n              ★★★★★\n            </div>\n          </div>\n          <p class=\"review-text\"> Souffrant de douleurs chroniques au genou depuis des années, j’étais sceptique… Mais après une semaine avec Livya®, je ressens un soulagement incroyable à chaque pas. Je recommande à tous mes proches !</p>\n          <div class=\"review-author\">Sophie</div>\n          <div class=\"review-location\">Bruxelles, Belgique</div>\n        </div>\n        <img class=\"review-img bottom\" src=\"https://cdn.shopify.com/s/files/1/0936/5772/7306/files/kOE0nJnik.jpg?v=1749004350\" alt=\"Review 2\">\n      </div>\n\n      <!-- Review 3 -->\n      <div class=\"review-card\">\n        <img class=\"review-img\" src=\"https://cdn.shopify.com/s/files/1/0936/5772/7306/files/qQv85-GKZ.jpg?v=1749004350\" alt=\"Review 3\">\n        <div style=\"display: flex; justify-content: center; margin-bottom: 10px;\">\n          <div style=\"background-color: #fde8f0; padding: 4px 12px; border-radius: 20px; font-size: 16px; color: #ff1a75;\">\n            ★★★★★\n          </div>\n        </div>\n        <p class=\"review-text\"> Enfin un produit naturel qui fonctionne ! Je les porte tous les jours au travail. Mes douleurs lombaires se sont largement atténuées, je me sens plus léger et détendu. Bravo pour cette innovation !</p>\n        <div class=\"review-author\">Marc</div>\n        <div class=\"review-location\">Toulouse, France</div>\n      </div>\n    </div>\n  </section>\n</div>",
+        "background": "#e6f7fb",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_W9TGgH": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_mtQfKj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Étoiles et avis -->\n<div style=\"display: flex; align-items: center; gap: 6px; margin-bottom: 6px;\">\n  <div style=\"color: #00b14f; font-size: 16px; display: flex;\">\n    ★★★★★\n  </div>\n  <div style=\"font-size: 14px; color: #000000;\">\n    4.8 (589 avis)\n  </div>\n</div>\n\n<section id=\"produit\"></section>"
+          }
+        },
+        "title_b3eybj": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_mei6KL": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_kV7n3K": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_d88qm7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #ffeaea; color: #b90000; display: inline-block; padding: 6px 12px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-bottom: 10px;\">\n  <span style=\"display: inline-block; width: 8px; height: 8px; background-color: red; border-radius: 50%; margin-right: 6px;\"></span>\nEn stock – profitez-en avant qu’il ne soit trop tard !</div>"
+          }
+        },
+        "rating_kRfPYY": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_4T6pCT": {
+          "type": "separator",
+          "settings": {}
+        },
+        "buy_buttons_htNMBW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_kmq4Fd": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "pickup_availability_6wPUb9": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_mtQfKj",
+        "title_b3eybj",
+        "badges_mei6KL",
+        "price_kV7n3K",
+        "liquid_d88qm7",
+        "rating_kRfPYY",
+        "separator_4T6pCT",
+        "buy_buttons_htNMBW",
+        "image_kmq4Fd",
+        "pickup_availability_6wPUb9"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "livya®-semelle-orthopedique-magnetique",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_t4hLFM": {
+      "type": "tabs",
+      "blocks": {
+        "tab_FQhN3b": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li><strong>Soulagement rapide des douleurs</strong> : Agissent efficacement sur les douleurs plantaires, articulaires et lombaires dès les premiers jours.</li><li><strong>Technologie magnétique intégrée</strong> : Stimule les points de pression pour améliorer la circulation sanguine et réduire l'inflammation.</li><li><strong>Adaptables à toutes les tailles</strong> : Les semelles sont découpables pour s’ajuster parfaitement à vos pieds (tailles S/M/L).</li><li><strong>Utilisation quotidienne facile</strong> : Glissez-les simplement dans vos baskets, chaussures ou pantoufles.</li><li><strong>Confort ergonomique</strong> : Leur design épouse parfaitement la forme du pied pour un soutien optimal à chaque pas.</li><li><strong>Sans médicament ni effets secondaires</strong> : Solution 100 % naturelle, non invasive et testée cliniquement.</li><li><strong>Économique et durable</strong> : Réutilisables et lavables, elles vous évitent des traitements coûteux.</li><li><strong>Garantie de satisfaction</strong> : Si vous n'êtes pas satisfait, une garantie de remboursement est offerte.</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_Xdw4qP": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez le <strong>Livya®</strong> sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre semelle Livya® vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_zFVFg9": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 10 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_i9fwwb": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_FQhN3b",
+        "tab_Xdw4qP",
+        "tab_zFVFg9",
+        "tab_i9fwwb"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_KNNWxz": {
+      "type": "faq",
+      "blocks": {
+        "item_jCFdCM": {
+          "type": "item",
+          "settings": {
+            "title": "Qu’est-ce que les semelles Livya® ?",
+            "content": "<p>ReliveX™ sont des semelles magnétiques conçues pour stimuler les points de pression sous vos pieds, afin de soulager naturellement les douleurs articulaires, musculaires et lombaires.</p>"
+          }
+        },
+        "item_KWgBqe": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionnent-elles ?",
+            "content": "<p>Elles utilisent la magnétothérapie : les aimants intégrés agissent sur la circulation sanguine et les nerfs plantaires, réduisant l’inflammation et la sensation de douleur.</p>"
+          }
+        },
+        "item_pWkyeC": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce indolore ?",
+            "content": "<p>Oui, complètement. Elles s’utilisent comme des semelles classiques, sans aucune gêne. Vous ressentez uniquement un effet de confort progressif.</p>"
+          }
+        },
+        "item_A8Qn9Q": {
+          "type": "item",
+          "settings": {
+            "title": "Sont-elles adaptées à tous les types de pieds ?",
+            "content": "<p>Oui ! Les semelles Livya® sont ajustables : vous pouvez les découper facilement selon votre pointure (S, M, L).</p>"
+          }
+        },
+        "item_xQnrjK": {
+          "type": "item",
+          "settings": {
+            "title": "Où puis-je les utiliser ?",
+            "content": "<p>Dans toutes vos chaussures : baskets, chaussures de ville, pantoufles… Elles sont discrètes, souples et efficaces partout.</p>"
+          }
+        },
+        "item_pCfKtx": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il une garantie ?",
+            "content": "<p>Oui, Livya® est couvert par une garantie satisfaction 30 jours. Essayez-les sans risque.</p>"
+          }
+        },
+        "item_hHVmtb": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vous livrez à l'étranger ?",
+            "content": "<p>Oui, nous livrons partout dans le monde.</p>"
+          }
+        },
+        "item_U8pJir": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de la livraison ?",
+            "content": "<p>Les commandes sont généralement expédiées sous 24 heures. Les délais de livraison varient entre 5 et 10 jours ouvrables, selon votre pays de résidence.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_jCFdCM",
+        "item_KWgBqe",
+        "item_pWkyeC",
+        "item_A8Qn9Q",
+        "item_xQnrjK",
+        "item_pCfKtx",
+        "item_hHVmtb",
+        "item_U8pJir"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_rjYdrA": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_pVPTb4"
+    "image_with_text_overlay_TqFYB7",
+    "rich_text_VGxAmJ",
+    "image_with_text_overlay_QfzrA7",
+    "rich_text_LzBaBP",
+    "featured_product_QE3WFb",
+    "logo_list_qB4fMH",
+    "custom_liquid_y6YjUY",
+    "custom_liquid_zdMaER",
+    "custom_liquid_kmzaxK",
+    "custom_liquid_C8Dpr3",
+    "custom_liquid_AFjpJU",
+    "custom_liquid_G9pXKW",
+    "featured_product_W9TGgH",
+    "tabs_t4hLFM",
+    "faq_KNNWxz",
+    "contact_rjYdrA"
   ]
 }
