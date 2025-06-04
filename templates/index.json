@@ -125,60 +125,38 @@
         "text_color": ""
       }
     },
-    "featured_product_874NWJ": {
+    "featured_product_WpJHVi": {
       "type": "featured-product",
       "blocks": {
-        "vendor_Bzd3Wr": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_bmVTg8": {
+        "title_3YYApV": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_kGeR8p": {
+        "badges_TQV8my": {
           "type": "badges",
           "settings": {}
         },
-        "price_UhCFwx": {
+        "price_FWLVqz": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating_cXCJE6": {
+        "rating_Jz9cBY": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
         },
-        "separator_XMkAdp": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_9FbQ9j": {
-          "type": "description",
+        "kaching_bundles_app_block_hciFQi": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "collapse_content": false
+            "product": "{{section.settings.product}}"
           }
         },
-        "variant_picker_PizKkj": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_Nfbi4G": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_A3xXdT": {
+        "buy_buttons_9br3yr": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
@@ -189,29 +167,25 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_HjyDKH": {
+        "pickup_availability_bbL74E": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "vendor_Bzd3Wr",
-        "title_bmVTg8",
-        "badges_kGeR8p",
-        "price_UhCFwx",
-        "rating_cXCJE6",
-        "separator_XMkAdp",
-        "description_9FbQ9j",
-        "variant_picker_PizKkj",
-        "quantity_selector_Nfbi4G",
-        "buy_buttons_A3xXdT",
-        "pickup_availability_HjyDKH"
+        "title_3YYApV",
+        "badges_TQV8my",
+        "price_FWLVqz",
+        "rating_Jz9cBY",
+        "kaching_bundles_app_block_hciFQi",
+        "buy_buttons_9br3yr",
+        "pickup_availability_bbL74E"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
         "product": "cire-seve®-redonnez-vie-a-vos-meubles-en-bois-sans-les-renover",
-        "desktop_media_width": 35,
+        "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
@@ -352,85 +326,66 @@
         "text_color": ""
       }
     },
-    "featured_product_W9TGgH": {
+    "featured_product_hd7hQa": {
       "type": "featured-product",
       "blocks": {
-        "liquid_mtQfKj": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- Étoiles et avis -->\n<div style=\"display: flex; align-items: center; gap: 6px; margin-bottom: 6px;\">\n  <div style=\"color: #00b14f; font-size: 16px; display: flex;\">\n    ★★★★★\n  </div>\n  <div style=\"font-size: 14px; color: #000000;\">\n    4.8 (589 avis)\n  </div>\n</div>\n\n<section id=\"produit\"></section>"
-          }
-        },
-        "title_b3eybj": {
+        "title_eiUrEq": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_mei6KL": {
+        "badges_PFkr36": {
           "type": "badges",
           "settings": {}
         },
-        "price_kV7n3K": {
+        "price_maCnk4": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "liquid_d88qm7": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"background-color: #ffeaea; color: #b90000; display: inline-block; padding: 6px 12px; border-radius: 8px; font-weight: bold; font-size: 14px; margin-bottom: 10px;\">\n  <span style=\"display: inline-block; width: 8px; height: 8px; background-color: red; border-radius: 50%; margin-right: 6px;\"></span>\nEn stock – profitez-en avant qu’il ne soit trop tard !</div>"
-          }
-        },
-        "rating_kRfPYY": {
+        "rating_73g7PR": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
         },
-        "separator_4T6pCT": {
-          "type": "separator",
-          "settings": {}
+        "kaching_bundles_app_block_XnMF6E": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
         },
-        "buy_buttons_htNMBW": {
+        "buy_buttons_nizx4X": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
         },
-        "image_kmq4Fd": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 500
-          }
-        },
-        "pickup_availability_6wPUb9": {
+        "pickup_availability_xyCjy4": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "liquid_mtQfKj",
-        "title_b3eybj",
-        "badges_mei6KL",
-        "price_kV7n3K",
-        "liquid_d88qm7",
-        "rating_kRfPYY",
-        "separator_4T6pCT",
-        "buy_buttons_htNMBW",
-        "image_kmq4Fd",
-        "pickup_availability_6wPUb9"
+        "title_eiUrEq",
+        "badges_PFkr36",
+        "price_maCnk4",
+        "rating_73g7PR",
+        "kaching_bundles_app_block_XnMF6E",
+        "buy_buttons_nizx4X",
+        "pickup_availability_xyCjy4"
       ],
+      "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "livya®-semelle-orthopedique-magnetique",
+        "product": "cire-seve®-redonnez-vie-a-vos-meubles-en-bois-sans-les-renover",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -439,7 +394,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -643,7 +598,7 @@
     "rich_text_VGxAmJ",
     "image_with_text_overlay_QfzrA7",
     "rich_text_LzBaBP",
-    "featured_product_874NWJ",
+    "featured_product_WpJHVi",
     "logo_list_qB4fMH",
     "custom_liquid_y6YjUY",
     "custom_liquid_zdMaER",
@@ -651,7 +606,7 @@
     "custom_liquid_C8Dpr3",
     "custom_liquid_AFjpJU",
     "custom_liquid_G9pXKW",
-    "featured_product_W9TGgH",
+    "featured_product_hd7hQa",
     "tabs_t4hLFM",
     "faq_KNNWxz",
     "contact_rjYdrA"
