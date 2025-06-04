@@ -20,10 +20,34 @@
             "text": "Offre limitée -50%",
             "url": ""
           }
+        },
+        "message_awPBar": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite à domicile",
+            "url": ""
+          }
+        },
+        "message_L9pL4i": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
+            "url": ""
+          }
+        },
+        "message_R6QVhd": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_awPBar",
+        "message_L9pL4i",
+        "message_R6QVhd"
       ],
       "settings": {
         "enable_sticky": false,
