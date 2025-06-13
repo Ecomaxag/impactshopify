@@ -213,6 +213,7 @@
         "logo_7rNKWd": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle_png_png.png",
             "logo_width": 120,
             "link": ""
           }
@@ -220,6 +221,7 @@
         "logo_9KgQjh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_webp_png.png",
             "logo_width": 120,
             "link": ""
           }
@@ -227,6 +229,7 @@
         "logo_pQGbhY": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue_png_png.png",
             "logo_width": 120,
             "link": ""
           }
@@ -234,6 +237,7 @@
         "logo_9qVati": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_webp.png-2.png",
             "logo_width": 120,
             "link": ""
           }
