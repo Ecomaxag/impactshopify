@@ -128,6 +128,12 @@
     "featured_product_WpJHVi": {
       "type": "featured-product",
       "blocks": {
+        "liquid_RJm8dX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section id=\"prod\"></section>"
+          }
+        },
         "title_3YYApV": {
           "type": "title",
           "settings": {
@@ -173,6 +179,7 @@
         }
       },
       "block_order": [
+        "liquid_RJm8dX",
         "title_3YYApV",
         "badges_TQV8my",
         "price_FWLVqz",
